@@ -1,0 +1,101 @@
+#main-component-topbar-contactus {
+  background-color: rgb(225, 241, 253);
+  color: white;
+}
+
+#main-component-topbar-contactus a {
+  text-decoration: none;
+  font-size: 32;
+}
+
+.primary-color {
+  color: rgb(0, 65, 90) !important;
+}
+
+.hover-primary:hover {
+  color: rgb(0, 65, 90) !important;
+}
+
+.back-primary {
+  background-color: rgb(0, 65, 90) !important;
+}
+
+.hover-back-primary:hover {
+  background-color: rgb(0, 65, 90) !important;
+}
+
+.hover-back-secondary:hover {
+  background-color: rgb(237, 241, 255) !important;
+}
+
+.hover-white:hover {
+  color: white !important;
+}
+.hover-black:hover {
+  color: black !important;
+}
+
+.secondary-color {
+  color: rgb(237, 241, 255);
+}
+
+.back-secondary {
+  background-color: rgb(237, 241, 255);
+}
+
+.bg-secondary {
+  background-color: rgb(225, 241, 253) !important;
+}
+
+.ubtn-primary {
+  border: 1px solid black;
+  color: rgb(0, 65, 90);
+}
+
+.ubtn-primary:hover {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(0, 65, 90) !important;
+}
+
+.color-white {
+  color: white;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.bg-yellow {
+  background-color: yellow !important;
+}
+
+.sharp-edges {
+  border-radius: 0px;
+}
+
+.vendor-style {
+  width: max-content;
+}
+/* login image */
+.cascading-right {
+  margin-right: -50px;
+}
+.col {
+  color: rgb(0, 65, 90);
+}
+.img {
+  height: 584px;
+  width: 400px;
+}
+
+@media (max-width: 991.98px) {
+  .cascading-right {
+    margin-right: 0;
+  }
+}
+/* Register */
+.my-custom-container {
+  max-width: 800px; /* Set your custom max-width here */
+  /* Add any additional styling you need */
+}
